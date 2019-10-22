@@ -1,0 +1,13 @@
+Partlist
+
+Part     Value          Package           Library                                                  Position (inch)       Orientation
+
+J1       JW-PJ-307-5    JW-PJ-307-X       audioconn                                                (0.394 0.215)         R90
+K2       692112030100   692112030100      Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.211 0.705)         R90
+R1                      R0603             rc-master-smd                                            (0.232 1.031)         R270
+R2                      R0603             rc-master-smd                                            (0.34 1.031)          R270
+R3                      R0603             rc-master-smd                                            (0.455 1.03)          R270
+R4                      R0603             rc-master-smd                                            (0.572 1.03)          R270
+SJ1      SOLDERJUMPERNO SJ_2S-NO          SparkFun                                                 (0.425 0.49)          MR180
+SW1      MS-22D18G2ROHS SW_MS-22D18G2ROHS MS-22D18G2ROHS                                           (0.349 1.23)          R270
+X1                      DB9_MALE          SparkFun                                                 (0.768 0.689)         R270

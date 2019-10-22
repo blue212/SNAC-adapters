@@ -1,0 +1,6 @@
+Partlist
+
+Part     Value          Package      Library                                                  Position (inch)       Orientation
+
+K2       692112030100   692112030100 Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.216 0.62)          R90
+X1                      DB9_MALE     SparkFun                                                 (0.639 0.619)         R270
