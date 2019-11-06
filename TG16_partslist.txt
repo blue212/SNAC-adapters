@@ -3,4 +3,4 @@ Partlist
 Part     Value          Package      Library                                                  Position (inch)       Orientation
 
 J1       SDS-80J        CUI_SDS-80J  SDS-80J                                                  (0.712 0.407)         R90
-K2       692112030100   692112030100 Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.201 0.399)         R90
+K2       a19032000ux0260   a19032000ux0260 Uxcell                                             (0.201 0.399)         R90
