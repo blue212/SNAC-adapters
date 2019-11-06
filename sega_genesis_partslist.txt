@@ -2,5 +2,5 @@ Partlist
 
 Part     Value          Package      Library                                                  Position (inch)       Orientation
 
-K2       a19032000ux0260  a19032000ux0260 Uxcell (0.216 0.62)          R90
+K2       a19032000ux0260  a19032000ux0260 Uxcell                                                (0.216 0.62)          R90
 X1                        DB9_MALE     SparkFun                                                 (0.639 0.619)         R270
