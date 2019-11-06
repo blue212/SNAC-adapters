@@ -3,4 +3,4 @@ Partlist
 Part     Value          Package      Library                                                  Position (inch)       Orientation
 
 J1       MD-80SM        CUI_MD-80SM  MD-80SM-edit                                             (0.616 0.367)         R270
-K2       692112030100   692112030100 Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.195 0.319)         R90
+K2       a19032000ux0260  a19032000ux0260  Uxcell                                             (0.195 0.319)         R90
