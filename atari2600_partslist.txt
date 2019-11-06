@@ -3,7 +3,7 @@ Partlist
 Part     Value          Package           Library                                                  Position (inch)       Orientation
 
 J1       JW-PJ-307-5    JW-PJ-307-X       audioconn                                                (0.394 0.215)         R90
-K2       692112030100   692112030100      Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.211 0.705)         R90
+K2       a19032000ux0260  a19032000ux0260      Uxcell                                              (0.211 0.705)         R90
 R1                      R0603             rc-master-smd                                            (0.232 1.031)         R270
 R2                      R0603             rc-master-smd                                            (0.34 1.031)          R270
 R3                      R0603             rc-master-smd                                            (0.455 1.03)          R270
