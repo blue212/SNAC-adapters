@@ -1,0 +1,11 @@
+Partlist
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value            Package         Library           Position (inch)       Orientation
+
+K2       a19032000ux0260  a19032000ux0260 Uxcell            (0.199 0.591)         R90
+U$1      SNESCONN         SNESCONN        gamepad-conn      (0.306 0.009)         R0
+U$2      SNESCONN         SNESCONN        gamepad-conn      (1.383 1.175)         R180

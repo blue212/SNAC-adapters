@@ -1,0 +1,12 @@
+Partlist
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value           Package          Library        Position (inch)       Orientation
+
+C1       0.1uf           C0805            rc-master-smd  (0.138 0.069)         R0
+J1       SDS-80J         CUI_SDS-80J      SDS-80J        (0.712 0.407)         R90
+K2       a19032000ux0260 a19032000ux0260  Uxcell         (0.201 0.399)         R90
+U2       NC7WZ16P6X      SOT65P210X110-6N NC7WZ16P6X     (0.364 0.079)         R0
